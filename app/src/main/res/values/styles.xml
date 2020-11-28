@@ -1,0 +1,87 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<!--    <style name="Theme.SwitchDateTime" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        <item name="colorPrimary">#29b6f6</item>-->
+<!--        <item name="colorPrimaryDark">#03a9f4</item>-->
+<!--        <item name="android:textColorPrimaryInverse">#e6e6e6</item>-->
+<!--        <item name="android:textColorSecondaryInverse">#e1e1e1</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Header Background &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.HeaderBackground">-->
+<!--        <item name="android:background">?attr/colorPrimary</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Content Background &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.ContentBackground">-->
+<!--        <item name="android:background">#00ffffff</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Title &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.TitleDateTimeLabelText">-->
+<!--        <item name="android:textSize">@dimen/title_date_time_label_text</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Icon &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.IconDateTimeSwitch">-->
+<!--        <item name="android:src">@drawable/ic_view_carousel_black_32dp</item>-->
+<!--        <item name="tint">?android:attr/textColorPrimaryInverse</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Time  &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.Time">-->
+<!--        <item name="timeCircleColor">#e1e1e1</item>-->
+<!--        <item name="timeCenterColor">?attr/colorPrimary</item>-->
+<!--        <item name="timeAmPmBackgroundColor">?attr/colorPrimary</item>-->
+<!--        <item name="timeAmPmSelectBackgroundColor">?attr/colorPrimary</item> &lt;!&ndash; Alpha is apply&ndash;&gt;-->
+<!--        <item name="timeAmPmTextColor">?android:attr/textColorPrimaryInverse</item>-->
+<!--        <item name="timeSelectorColor">?attr/colorPrimary</item>-->
+<!--        <item name="timeCircularNumbersColor">#494949</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Time Label &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.TimeLabelText">-->
+<!--        <item name="android:textSize">@dimen/time_label_text</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.SwitchDateTime.TimeLabelAmPm">-->
+<!--        <item name="android:textSize">@dimen/time_label_AmPm</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Date &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.Date">-->
+<!--        <item name="mcv_selectionColor">?attr/colorPrimary</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Date Label &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.DateLabelMonthAndDay">-->
+<!--        <item name="android:textSize">@dimen/date_label_month_and_day</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Year Selected&ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.Year">-->
+<!--        <item name="colorCircleIndicator">?attr/colorPrimary</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Year Label &ndash;&gt;-->
+<!--    <style name="Theme.SwitchDateTime.DateLabelYear">-->
+<!--        <item name="android:textSize">@dimen/date_label_year</item>-->
+<!--        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+
+</resources>
